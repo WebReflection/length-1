@@ -1,4 +1,4 @@
-# length-1 [![build status](https://secure.travis-ci.org/WebReflection/length-1.svg)](http://travis-ci.org/WebReflection/length-1)
+# length-1 [![build status](https://secure.travis-ci.org/WebReflection/length-1.svg)](http://travis-ci.org/WebReflection/length-1) [![npm version](https://badge.fury.io/js/length-1.svg)](https://badge.fury.io/js/length-1)
 First negative index through Array
 
 ```js
