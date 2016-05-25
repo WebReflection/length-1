@@ -1,0 +1,26 @@
+{
+  "name": "length-1",
+  "version": "1.0.0",
+  "description": "First negative index through Array",
+  "main": "length-1.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebReflection/length-1.git"
+  },
+  "keywords": [
+    "Array",
+    "-1",
+    "index",
+    "length",
+    "negative"
+  ],
+  "author": "Andrea Giammarchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WebReflection/length-1/issues"
+  },
+  "homepage": "https://github.com/WebReflection/length-1#readme"
+}
